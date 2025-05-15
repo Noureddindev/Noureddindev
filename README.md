@@ -1,6 +1,3 @@
-Got it! Here's your updated README profile with your image properly placed:
-
-```md
 <h2 align="left">Hi 👋! My name is ASKAL NOUREDDIN and I'm a Computer Science student from Morocco.</h2>
 
 ###
@@ -52,8 +49,3 @@ Got it! Here's your updated README profile with your image properly placed:
   A 25-year-old student from Morocco, interested in computer science, software development, and artificial intelligence.
   I'm trying to make life easier and earn more money 🤑.
 </p>
-```
-
-Your profile is now fully customized! If the image doesn’t display correctly, ensure you use the *direct* image URL instead of the album link. You may need to open the image on Imgur, right-click, and select *"Copy image address"* to get the correct URL.
-
-Let me know if you'd like any further refinements! 🚀
